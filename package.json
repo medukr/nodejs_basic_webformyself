@@ -1,0 +1,18 @@
+{
+  "name": "webformyself-nodejs",
+  "version": "1.0.0",
+  "description": "nodejs tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "js"
+  ],
+  "author": "me <me@example.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
