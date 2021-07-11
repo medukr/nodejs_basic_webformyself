@@ -8,7 +8,7 @@ const server = http.createServer((request, responce) => {
     responce.write('<h3>Hello from HodeJS</h3>')
     responce.end(`
         <div style="background:red; width:200px; height:200px;">
-            <h1>Test</h1>
+            <h1>Test 1</h1>
         </div>
     `)
 })
